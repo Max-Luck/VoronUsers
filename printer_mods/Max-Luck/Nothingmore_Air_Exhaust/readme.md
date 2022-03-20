@@ -1,6 +1,8 @@
 <B>Nothingmore Air Exhaust</B>
 
-![1](Images/1.png) 
+![1](Images/1.png)
+ 
+![1](Images/2.png) 
 
 A drop in simple mod for V2/Voron Trident. Replaces The existing exhaust housing with something more robust. 
 
